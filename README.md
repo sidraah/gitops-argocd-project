@@ -75,3 +75,12 @@ kubectl get svc
 ### Application Sync
 
 <img width="1895" height="889" alt="Screenshot 2026-06-12 223342" src="https://github.com/user-attachments/assets/c5a098b2-597d-48ab-91fa-72e7bfb400a8" />
+
+### updated nginx image version 1.25 to 1.26
+
+<img width="1910" height="880" alt="Screenshot 2026-06-12 210629" src="https://github.com/user-attachments/assets/15255857-ed96-46ab-82f2-ad5722ce6871" />
+
+### updated replicas from 2 to 4 
+
+<img width="1471" height="876" alt="Screenshot 2026-06-12 215056" src="https://github.com/user-attachments/assets/1bcd6aba-d45f-434d-a9ca-60bba28cb945" />
+
