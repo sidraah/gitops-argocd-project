@@ -83,4 +83,3 @@ kubectl get svc
 ### updated replicas from 2 to 4 
 
 <img width="1471" height="876" alt="Screenshot 2026-06-12 215056" src="https://github.com/user-attachments/assets/1bcd6aba-d45f-434d-a9ca-60bba28cb945" />
-
